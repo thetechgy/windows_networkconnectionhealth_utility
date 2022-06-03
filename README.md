@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `thetechgy`, `windows_networkconnectionhealth_utility`, `twitter_handle`, `travismcdade`, `email_client`, `email`, `Windows Network Connection Health Utility`, `A PowerShell-based utility for monitoring the network connection health of Windows devices.`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `email_client`, `email`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +92,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [PowerShell](https://docs.microsoft.com/en-us/powershell/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -194,7 +187,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Travis - email@email_client.com
 
 Project Link: [https://github.com/thetechgy/windows_networkconnectionhealth_utility](https://github.com/thetechgy/windows_networkconnectionhealth_utility)
 
