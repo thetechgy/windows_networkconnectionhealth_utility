@@ -196,7 +196,7 @@ Project Link: [https://github.com/thetechgy/windows_networkconnectionhealth_util
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template
 * []()
 * []()
 
