@@ -84,8 +84,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `email_client`, `email`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -185,7 +183,7 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Travis McDade- email@email_client.com
+Travis McDade - [LinkedIn](https://linkedin.com/in/travismcdade)
 
 Project Link: [https://github.com/thetechgy/windows_networkconnectionhealth_utility](https://github.com/thetechgy/windows_networkconnectionhealth_utility)
 
