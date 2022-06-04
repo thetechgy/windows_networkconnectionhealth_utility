@@ -197,8 +197,6 @@ Project Link: [https://github.com/thetechgy/windows_networkconnectionhealth_util
 ## Acknowledgments
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
